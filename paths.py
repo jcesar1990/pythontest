@@ -1,0 +1,12 @@
+#Credenciales
+#Weatherlink
+User="SGIRPC"
+Password="sgirpc2023"
+#Paths
+principal='C:/Users/meteorologia/'
+file=principal+'Documents/files/'
+tempo=principal+'Documents/temporal/'
+save=principal+'Documents/save/'
+#Drivers
+drivers=principal+'Documents/drivers/'
+chromedriver=drivers+'chromedriver-win64/chromedriver-win64/chromedriver.exe'
